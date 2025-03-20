@@ -1,5 +1,7 @@
 import React, { useState, useEffect, useCallback } from "react";
 import axios from "axios";
+import { HashRouter as Router } from "react-router-dom";
+
 
 // OpenWeather API Key
 const WEATHER_API_KEY = "b1acf5ad58207f82b893cc4d3b3d7258";
