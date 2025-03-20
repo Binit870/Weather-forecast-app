@@ -2,7 +2,7 @@
   "name": "weather-application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Binit870.github.io/weather-forecast-app",
+  "homepage": "https://binit870.github.io/Weather-forecast-app",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
